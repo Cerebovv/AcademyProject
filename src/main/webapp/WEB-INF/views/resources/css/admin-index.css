@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+#search_type {
+	width: 150px;
+    height: 40px;
+    background-color: initial;
+    border: none;
+    color: #fff;
+    border: #8b8b8ba2;
+    border-style: solid;
+    border-width: thin;
+    text-align: center;
+}
